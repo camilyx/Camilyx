@@ -2,9 +2,9 @@
 
 
 
-- 🌱 Estudando programação web java e design gráfico
+- 🌱 Formada em Design Gráfico pela FMU/FIAM FAAM, Programação Web JAVA pelo Instituto PROA e atualmente estou fazendo Pós Graduaçaõ em Desenvolvimento Front End.
 - 📫 Contate-me no email: camilysilva15@outlook.com
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/camilyx">
